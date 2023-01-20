@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+@font-face {
+	font-family: 'Novecento';
+	src: url('./assets/Novecento-WideMedium-1.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Gill Sans Nova Book';
+	src: url('./assets/GillSansNova-Book.ttf') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
